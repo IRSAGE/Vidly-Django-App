@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\IR~SAGE\\.virtualenvs\\vidly-LFZwpP1R\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\IR~SAGE\\.virtualenvs\\vidly-LFZwpP1R\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true
 }
