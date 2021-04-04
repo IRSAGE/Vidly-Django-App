@@ -25,7 +25,9 @@ SECRET_KEY = '-4iz+jp$wvy^x)er%h$2@d&)47j@pbt936u141^*@#g%fst7&j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'sage-vidly.herokuapp.com'
+]
 
 
 # Application definition
